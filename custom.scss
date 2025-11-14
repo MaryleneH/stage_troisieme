@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+$presentation-heading-color: #2c3e50;
+$link-color: #3498db;
+$code-block-bg: #f8f9fa;
+
+/*-- scss:rules --*/
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  color: $presentation-heading-color;
+  font-weight: bold;
+}
+
+.reveal {
+  font-size: 36px;
+}
+
+.reveal .smaller {
+  font-size: 0.85em;
+}
+
+.reveal .center {
+  text-align: center;
+}
+
+.reveal .fragment {
+  margin-top: 1em;
+}
+
+.reveal .callout-tip {
+  border-left: 4px solid #28a745;
+  padding-left: 1em;
+}
+
+.reveal ul {
+  margin-left: 1.5em;
+}
+
+.reveal .columns {
+  display: flex;
+  gap: 2em;
+}
+
+.reveal .column {
+  flex: 1;
+}
+
+.panel-tabset {
+  margin-top: 1em;
+}

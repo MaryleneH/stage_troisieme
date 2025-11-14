@@ -1,0 +1,153 @@
+---
+title: "Introduction au Prompt Engineering"
+subtitle: "Apprendre à communiquer avec l'IA"
+author: "Stage 3ème"
+date: today
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    transition: slide
+    background-transition: fade
+---
+
+## Bienvenue ! {.center}
+
+Découvrons ensemble le **Prompt Engineering**
+
+::: {.notes}
+Notes pour l'orateur : Accueillir l'audience et introduire le sujet
+:::
+
+## Qu'est-ce qu'un Prompt ? {.smaller}
+
+::: {.incremental}
+- Un **prompt** est une instruction donnée à une IA
+- C'est comme poser une question ou donner une consigne
+- La qualité du prompt détermine la qualité de la réponse
+:::
+
+::: {.notes}
+Expliquer avec des exemples simples
+:::
+
+## Pourquoi le Prompt Engineering ? {.smaller}
+
+::: {.columns}
+::: {.column width="50%"}
+**Avantages**
+
+- Obtenir de meilleures réponses
+- Gagner du temps
+- Être plus précis
+:::
+
+::: {.column width="50%"}
+**Applications**
+
+- Rédaction
+- Recherche
+- Créativité
+- Apprentissage
+:::
+:::
+
+## Les Principes de Base {.smaller}
+
+1. **Être clair et précis**
+   - Éviter l'ambiguïté
+   - Donner du contexte
+
+2. **Structurer sa demande**
+   - Décomposer les tâches complexes
+   - Utiliser des exemples
+
+3. **Itérer et améliorer**
+   - Tester différentes formulations
+   - Affiner progressivement
+
+## Exemples Pratiques {.smaller}
+
+::: {.panel-tabset}
+
+### Exemple 1
+**Prompt faible :**
+"Parle-moi de l'histoire"
+
+**Prompt amélioré :**
+"Explique-moi les principales causes de la Révolution française en 5 points simples pour un élève de 3ème"
+
+### Exemple 2
+**Prompt faible :**
+"Aide-moi en maths"
+
+**Prompt amélioré :**
+"Je ne comprends pas comment résoudre une équation du second degré. Peux-tu m'expliquer la méthode étape par étape avec un exemple simple ?"
+
+:::
+
+## Techniques Avancées {.smaller}
+
+::: {.incremental}
+- **Le rôle (Role-playing)** : "Tu es un professeur de mathématiques..."
+- **Les exemples (Few-shot)** : Donner des exemples avant de poser la question
+- **La chaîne de pensée (Chain-of-thought)** : "Explique ton raisonnement étape par étape"
+- **Le contexte** : Fournir les informations nécessaires
+:::
+
+## Exercice Pratique {.center}
+
+**À votre tour !**
+
+Transformez ce prompt faible en prompt efficace :
+
+> "Écris quelque chose sur les animaux"
+
+::: {.fragment}
+**Exemple de solution :**
+"Rédige un paragraphe de 150 mots sur les habitudes alimentaires des pandas géants, adapté à un public de collégiens, en incluant des informations sur leur régime de bambou et leur système digestif."
+:::
+
+## Erreurs à Éviter {.smaller}
+
+::: {.incremental}
+- ❌ Prompts trop vagues ou génériques
+- ❌ Demander plusieurs choses non liées à la fois
+- ❌ Ne pas préciser le format souhaité
+- ❌ Oublier de donner le contexte
+- ✅ Être spécifique, structuré et clair
+:::
+
+## Ressources et Outils {.smaller}
+
+**Pour aller plus loin :**
+
+- ChatGPT, Claude, Gemini (assistants IA)
+- Communautés en ligne de Prompt Engineering
+- Guides et tutoriels en ligne
+- Pratique régulière !
+
+::: {.callout-tip}
+## Astuce
+Le meilleur moyen d'apprendre est de pratiquer régulièrement et d'expérimenter !
+:::
+
+## Conclusion {.center}
+
+::: {.incremental}
+- Le Prompt Engineering est une compétence clé du 21ème siècle
+- La pratique rend meilleur
+- N'ayez pas peur d'expérimenter !
+:::
+
+**Questions ?** 🤔
+
+## Merci ! {.center}
+
+**Bonne continuation dans votre découverte du Prompt Engineering !**
+
+::: {.notes}
+Ouvrir la session de questions/réponses
+:::

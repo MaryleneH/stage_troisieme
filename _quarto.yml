@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Prompt Engineering - Introduction"
+  navbar:
+    left:
+      - text: "Présentation"
+        href: index.html
+
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: true
+    preview-links: auto
+    css: styles.css
+    footer: "Prompt Engineering pour débutants"
+    transition: slide
+    background-transition: fade
+    smaller: false
+    scrollable: true
