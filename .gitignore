@@ -1,0 +1,23 @@
+/.quarto/
+/_site/
+/.vscode/
+/.Rproj.user/
+*.Rproj
+
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# Output directories
+docs/
+_site/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo

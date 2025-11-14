@@ -1,0 +1,37 @@
+/* Additional custom styles for the presentation */
+
+.reveal section img {
+  border: none;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal pre code {
+  max-height: 500px;
+}
+
+.reveal .slide-number {
+  font-size: 0.6em;
+}
+
+/* Improve readability */
+.reveal p {
+  line-height: 1.5;
+}
+
+.reveal li {
+  margin-bottom: 0.5em;
+}
+
+/* Highlight boxes */
+.callout {
+  margin: 1em 0;
+  padding: 1em;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+}
+
+.callout-tip {
+  background-color: #d4edda;
+  border-left: 4px solid #28a745;
+}
